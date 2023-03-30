@@ -8,4 +8,4 @@ instagram-clone. using react and firebase
 // => hooks
 // => services (firebase)
 // => styles (tailwind)
-// =? store (zustand)
+// => store (zustand)
